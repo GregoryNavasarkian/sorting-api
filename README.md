@@ -13,7 +13,7 @@ API that sorts lists using multiple sorting algorithms and returns a sorted list
 - /selection -> sort data using selection sort
 - /quick -> sort data using quick sort
 #### Sending requests (JSON)
-To send a request as JSON separate data with commas i.e. {5,4,3,2,1}. No spaces between characters.
+To send a request as JSON separate data with commas i.e. `{"nums": 5,4,3,2,1}`. No spaces between characters.
 
 #### Receiving requests (JSON)
 Returned data sent in the following format:
