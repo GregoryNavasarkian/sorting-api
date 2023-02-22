@@ -6,12 +6,12 @@ API that sorts lists using multiple sorting algorithms and returns a sorted list
 ### Usage
 -Default PORT set as 3000.
 #### Endpoints:
-- /bubble -> sort sent data using bubble sort
-- /insertion -> sort sent data using insertion sort
-- /merge -> sort sent data using merge sort
-- /radix -> sort sent data using radix sort
-- /selection -> sort sent data using selection sort
-- /quick -> sort send data using quick sort
+- /bubble -> sort data using bubble sort
+- /insertion -> sort data using insertion sort
+- /merge -> sort data using merge sort
+- /radix -> sort data using radix sort
+- /selection -> sort data using selection sort
+- /quick -> sort data using quick sort
 #### Sending requests (JSON)
 To send a request as JSON separate data with commas i.e. {5,4,3,2,1}. No spaces between characters.
 
