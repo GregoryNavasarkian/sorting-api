@@ -2,6 +2,7 @@
  
 ### Description
 API that sorts lists using multiple sorting algorithms and returns a sorted list and time taken to sort as JSON object.
+Demonstrates the difference between sorting algorithms.
 
 ### Usage
 -Default PORT set as 3000.
